@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-live-camera-filters](modules/live-camera-filters)
 - [camera]()
 - [react-native-onboarding](modules/onboarding)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
